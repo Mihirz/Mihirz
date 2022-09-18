@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mihirz
 - 👀 I’m interested in FRC/FTC CAD
-- 🌱 I’m currently learning AP Calculus BC, AP Chemistry, AP Art History, & AP Human Geography
+- 🌱 I’m currently learning Academic English 1 & Impact Algebra 3
 - 📫 How to reach me: mihirsharma700@gmail.com | +1 (412)-313-3729
 - i like to annoy @karthikpalled (hes smarter than me)
 <!---
