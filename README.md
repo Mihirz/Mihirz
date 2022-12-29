@@ -1,0 +1,3 @@
+- 🔭 I’m currently working on First Tech Challenge & First Robotics Competition Programming
+- 🌱 I’m currently learning Calculus II
+- 📫 How to reach me: mihirsharma700@gmail.com | 412-313-3729
