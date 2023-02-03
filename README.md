@@ -1,3 +1,2 @@
 - 🔭 I’m currently working on advanced Java programming & iOS development
-- 🌱 I’m currently learning Calculus II
 - 📫 How to reach me: mihirsharma700@gmail.com | 412-313-3729
