@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on advanced Java programming & iOS development
+- Programmer for two-time world-winning FTC & FRC Team 8393
 - 📫 How to reach me: mihirsharma700@gmail.com | 412-313-3729
