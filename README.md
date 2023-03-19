@@ -1,2 +1,2 @@
-- Programmer for two-time world-winning FTC & FRC Team 8393
+- Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393
 - 📫 How to reach me: mihirsharma700@gmail.com | 412-313-3729
