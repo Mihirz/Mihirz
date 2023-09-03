@@ -1,6 +1,6 @@
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
-**- AI Research Intern at the Robotics Institute, Carnegie Mellon**
+**- AI Research Intern at the Robotics Institute, Carnegie Mellon University**
 
 **- My App & Game Portfolio:**
 - https://docs.google.com/document/d/1S7Dh3thtEL2bzWdxWLxBadSXQTwNNJ7LZ92oPdAcIos/edit?usp=sharing
