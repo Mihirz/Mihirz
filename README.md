@@ -12,4 +12,4 @@
 
 
 
-**- email: mihirsharma700@gmail.com**
+**- Email: mihirsharma700@gmail.com**
