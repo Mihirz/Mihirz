@@ -1,6 +1,6 @@
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
-**- AI-Driven Robotics & Computer Vision Researcher at the AirLab (Robotics Institute, Carnegie Mellon University)**
+**- AI-Driven Robotics & Computer Vision Researcher at the Carnegie Mellon University's AirLab (Robotics Institute)**
 
 **- My App & Game Portfolio:**
 
