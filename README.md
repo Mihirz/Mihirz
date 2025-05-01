@@ -1,6 +1,8 @@
+**- Electrical Engineering and Computer Sciences Student at UC Berkeley**
+
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
-**- AI-Driven Robotics & Computer Vision Researcher at the Carnegie Mellon University's AirLab (Robotics Institute)**
+**- AI-Driven Robotics & Computer Vision Intern at the Carnegie Mellon University's AirLab (Robotics Institute)**
 
 **- My App & Game Portfolio:**
 
