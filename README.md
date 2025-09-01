@@ -10,4 +10,4 @@
 
 
 
-**- Email: mihirsharma700@gmail.com**
+**- Emails: mihirsharma700@gmail.com, mihirsharma@berkeley.edu**
