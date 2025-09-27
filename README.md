@@ -1,4 +1,5 @@
 **- Electrical Engineering and Computer Sciences + Neuroscience @ UC Berkeley**
+**- Wetware Engineering: Neurotech @ Berkeley-**
 
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
