@@ -18,6 +18,3 @@
 **- My FIRST Robotics Design Portfolio:**
 
 - https://drive.google.com/drive/folders/1pGeqylgtwJ3X-nK8Mf6HUrpkxFuSdkAL?usp=sharing
-
-
-**- Emails: mihirsharma700@gmail.com, mihirsharma@berkeley.edu**
