@@ -6,10 +6,10 @@
 **- Wetware Engineering: Neurotech@Berkeley**
     - See Connectomics Project Below
 
-**- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
-
 **- AI-Driven Robotics & Computer Vision Intern at the Carnegie Mellon University's AirLab (Robotics Institute)**
 (See robovision-pretrained-transformer pinned repo for Pre-Trained Transformer Research Project)
+
+**- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
 **- My FIRST Robotics Code Portfolio:**
 
