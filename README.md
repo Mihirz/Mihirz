@@ -1,6 +1,6 @@
 **- Electrical Engineering and Computer Sciences + Neuroscience @ UC Berkeley**
 
-**-1st Place Grand Prize Winner @ HackUTD (largest 24-hour hackathon in North America)**
+**-1st Place Grand Prize Winner @ HackUTD (largest 24-hour hackathon in North America) for Working Memory Project**
 
 **- Wetware Engineering: Neurotech@Berkeley**
 
