@@ -4,6 +4,7 @@
     - See Working Memory Project Below
 
 **- Wetware Engineering: Neurotech@Berkeley**
+    - See Connectomics Project Below
 
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
