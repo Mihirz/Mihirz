@@ -1,6 +1,6 @@
 **- Electrical Engineering & Computer Sciences, Pure Mathematics, and Neuroscience Triple Major @ UC Berkeley**
 
-**-*1st Place Grand Prize Winner* @ HackUTD 2025 (Largest 24-Hour Hackathon in North America)**
+**- *1st Place Grand Prize Winner* @ HackUTD 2025 (Largest 24-Hour Hackathon in North America)**
     - See Working Memory Project Below (Devpost link: https://devpost.com/software/working-memory)
 
 **- Wetware Engineering: Neurotech@Berkeley**
