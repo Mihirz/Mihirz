@@ -1,5 +1,7 @@
 **- Electrical Engineering and Computer Sciences + Neuroscience @ UC Berkeley**
 
+**-1st Place Grand Prize Winner @ HackUTD-**
+
 **- Wetware Engineering: Neurotech@Berkeley**
 
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
