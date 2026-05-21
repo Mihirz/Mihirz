@@ -5,7 +5,7 @@
 **- NLP Research for deep brain stimulation patients @ UCSF** 
 (See audio-speech-analysis below)
 
-**- *1st Place Grand Prize Winner* @ HackUTD 2025 (Largest 24-Hour Hackathon in North America)**
+**- *1st Place Grand Prize Winner* @ HackUTD 2025**
 (See Working Memory Project Repo Below)
 
 **- Wetware Lead: Neurotech@Berkeley**
