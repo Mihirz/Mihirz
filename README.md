@@ -14,6 +14,9 @@
 **- Computer Vision & Robotics Intern at the Carnegie Mellon University's AirLab (Robotics Institute)**
 (See robovision-pretrained-transformer Project Below)
 
+**- *3rd Place Blue Sky Track* @ NeurotechX Global Hackathon 2026**
+(See Pyrosense Project Below)
+
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
 **- My FIRST Robotics Code Portfolio:**
