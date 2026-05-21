@@ -1,28 +1,21 @@
-**- EECS + Neuroscience + Math @ UC Berkeley**
+# Hi, I'm Mihir 👋
 
-**- Building Working Memory**
+EECS + Neuroscience + Math @ UC Berkeley. I work at the intersection of neuroscience, ML, and robotics — currently building **[Working Memory](#)**, my startup, and researching language models for deep brain stimulation patients at UCSF.
 
-**- NLP Research for deep brain stimulation patients @ UCSF** 
-(See audio-speech-analysis below)
+---
 
-**- *1st Place Grand Prize Winner* @ HackUTD 2025**
-(See Working Memory Project Below)
+## What I'm working on
 
-**- Wetware Lead: Neurotech@Berkeley**
-(See neurobiologically-inspired-RL Project Below)
+- 🧠 **[Working Memory](#)** — founder. *🏆 1st Place Grand Prize, HackUTD 2025.*
+- 🎙️ **NLP research for DBS patients @ UCSF** — speech and language analysis. See [audio-speech-analysis](#).
+- 🔬 **Wetware Lead, Neurotech@Berkeley** — connectomics. See [connectomics](#).
 
-**- Computer Vision & Robotics Intern at the Carnegie Mellon University's AirLab (Robotics Institute)**
-(See robovision-pretrained-transformer Project Below)
+## Past work
 
-**- *3rd Place Blue Sky Track* @ NeurotechX Global Hackathon 2026**
-(See EEG-powered firefighting drone in global_neurotech_hackathon_berkeley project below)
+- 🤖 **Computer Vision & Robotics Intern, CMU AirLab** (Robotics Institute) — see [robovision-pretrained-transformer](#).
+- 🚁 **NeurotechX Global Hackathon 2026** — *🥉 3rd Place, Blue Sky Track.* EEG-powered firefighting drone. See [global_neurotech_hackathon_berkeley](#).
+- 🦾 **Lead Programmer, FIRST Team 8393** — two-time world-winning FTC & FRC team.
+  - [Code Portfolio](https://docs.google.com/document/d/1odVrYJhNhuj0OhmQD9pQuxeHhEvv6JEApfpaCErp2FY/edit?usp=sharing)
+  - [Design Portfolio](https://drive.google.com/drive/folders/1pGeqylgtwJ3X-nK8Mf6HUrpkxFuSdkAL?usp=sharing)
 
-**- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
-
-**- My FIRST Robotics Code Portfolio:**
-
-- https://docs.google.com/document/d/1odVrYJhNhuj0OhmQD9pQuxeHhEvv6JEApfpaCErp2FY/edit?usp=sharing
-
-**- My FIRST Robotics Design Portfolio:**
-
-- https://drive.google.com/drive/folders/1pGeqylgtwJ3X-nK8Mf6HUrpkxFuSdkAL?usp=sharing
+---
