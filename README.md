@@ -6,10 +6,10 @@
 (See audio-speech-analysis below)
 
 **- *1st Place Grand Prize Winner* @ HackUTD 2025 (Largest 24-Hour Hackathon in North America)**
-    - See Working Memory Project Repo Below or See Our Website: https://workingmemory.vip
+(See Working Memory Project Repo Below)
 
 **- Wetware Lead: Neurotech@Berkeley**
-    - See Connectomics Project Below
+(See Connectomics Project Below)
 
 **- Computer Vision & Robotics Intern at the Carnegie Mellon University's AirLab (Robotics Institute)**
 (See robovision-pretrained-transformer Project Below)
