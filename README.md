@@ -6,7 +6,7 @@
 (See audio-speech-analysis below)
 
 **- *1st Place Grand Prize Winner* @ HackUTD 2025**
-(See Working Memory Project Repo Below)
+(See Working Memory Project Below)
 
 **- Wetware Lead: Neurotech@Berkeley**
 (See Connectomics Project Below)
