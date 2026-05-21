@@ -15,7 +15,7 @@
 (See robovision-pretrained-transformer Project Below)
 
 **- *3rd Place Blue Sky Track* @ NeurotechX Global Hackathon 2026**
-(See Pyrosense Project Below)
+(See EEG-powered firefighting drone in global_neurotech_hackathon_berkeley project below)
 
 **- Lead Programmer for two-time world-winning FIRST Tech Challenge & FIRST Robotics Competition Team 8393**
 
