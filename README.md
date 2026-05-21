@@ -1,6 +1,6 @@
 # Hi, I'm Mihir 👋
 
-EECS + Neuroscience + Math @ UC Berkeley. I work at the intersection of neuroscience, ML, and robotics — currently building **[Working Memory](#)**, my startup, and researching language models for deep brain stimulation patients at UCSF.
+EECS + Neuroscience + Math @ UC Berkeley. I work at the intersection of neuroscience, ML, and robotics — currently building **[Working Memory](https://www.workingmemory.vip/)**, my startup, and researching language models for deep brain stimulation patients at UCSF.
 
 ---
 
