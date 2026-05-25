@@ -6,7 +6,7 @@ EECS + Neuroscience + Math @ UC Berkeley. I work at the intersection of neurosci
 
 ## What I'm working on
 
-- 🧠 **[Working Memory](https://www.workingmemory.vip/)** — cofounder, working in agentic AI space. *🏆 1st Place Grand Prize, HackUTD 2025.*
+- 🧠 **[Working Memory](https://www.workingmemory.vip/)** — cofounder, working in the agentic AI space. *🏆 1st Place Grand Prize, HackUTD 2025.*
 - 🎙️ **NLP research for DBS patients @ UCSF** — speech and language analysis. See [audio-speech-analysis](https://github.com/anushaballawala/audio-speech-analysis).
 - 🔬 **Wetware Lead, Neurotech@Berkeley** — reinforcement learning. See [neurobiologically-inspired-RL](https://github.com/Mihirz/neurobiologically-inspired-RL).
 
