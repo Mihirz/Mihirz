@@ -12,6 +12,7 @@ EECS + Neuroscience + Math @ UC Berkeley. I work at the intersection of neurosci
 
 ## Past work
 
+- **Ebby, HackMIT 2026** — *Regeneron Prize.* AR assistant for clinical trial visits: puts the visit agenda in the coordinator's line of sight, transcribes to track completed procedures, and pulls contactless heart and respiratory rate from the camera. See [Regeneron's writeup](https://www.linkedin.com/posts/henrywei_what-if-tony-stark-had-done-clinical-trials-ugcPost-7508217767066755073-r0eO/).
 - **Computer Vision & Robotics Intern, CMU AirLab** (Robotics Institute) — see [robovision-pretrained-transformer](https://github.com/castacks/robovision-pretrained-transformer).
 - **NeurotechX Global Hackathon 2026** — *3rd Place, Blue Sky Track.* EEG-powered firefighting drone. See [global_neurotech_hackathon_berkeley](https://github.com/Mihirz/global_neurotech_hackathon_berkeley).
 - **Lead Programmer, FIRST Team 8393** — two-time world-winning robotics team.
