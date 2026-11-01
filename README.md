@@ -5,7 +5,7 @@ EECS + Neuroscience + Math @ UC Berkeley. I work at the intersection of neurosci
 ---
 
 ## What I'm working on
-- ** Stealth Startup (Co-founder), *1st Place Grand Prize, Recruit Holdings Innovation Cup 2026*
+- **Stealth Startup (Co-founder)**, *1st Place Grand Prize, Recruit Holdings Innovation Cup 2026*
 - **[Working Memory](https://www.workingmemory.vip/)** — an agentic AI platform for work context. *1st Place Grand Prize, HackUTD 2025.*
 - **NLP research for DBS patients @ UCSF** — speech and language analysis. See [audio-speech-analysis](https://github.com/anushaballawala/audio-speech-analysis).
 - **Wetware Lead, Neurotech@Berkeley** — reinforcement learning. See [neurobiologically-inspired-RL](https://github.com/Mihirz/neurobiologically-inspired-RL).
